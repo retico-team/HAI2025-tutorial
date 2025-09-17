@@ -17,7 +17,8 @@ Below is an example of a system that used Retico (see [original paper](https://a
 
 ### Organizers
 
-- Casey Kennington, Associate Professor, Boise State University - caseykennington@boisestate.edu 
+- Casey Kennington, Associate Professor, Boise State University - caseykennington@boisestate.edu
+- Catherine Henry, Graduate Assistant, Boise State University
 
 ### Schedule
 
