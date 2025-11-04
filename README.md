@@ -24,7 +24,7 @@ Below is an example of a system that used Retico (see [original paper](https://a
 
 ### Schedule
 
-Date: 10 November 2025
+Date: 10 November 2025, 9:00 am (note that this is a half-day tutorial, not a full-day workshop)
 
 - Brief intro to Retico (15 minutes)
 - Theoretical background (15 minutes)
