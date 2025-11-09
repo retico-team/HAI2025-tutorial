@@ -22,6 +22,10 @@ Below is an example of a system that used Retico (see [original paper](https://a
 - Casey Kennington, Associate Professor, Boise State University - caseykennington@boisestate.edu
 - Catherine Henry, Graduate Assistant, Boise State University
 
+### Location
+
+Conference Room S, 2nd floor
+
 ### Schedule
 
 Date: 10 November 2025, 9:00 am (note that this is a half-day tutorial, not a full-day workshop)
